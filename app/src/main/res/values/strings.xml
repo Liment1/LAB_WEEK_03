@@ -12,5 +12,14 @@ extraction.)</string>
     <string name="latte_desc">A tall, mild \'milk coffee\' (about 150-300 ml). An
 espresso with steamed milk and only a little milk foam poured over it. Serve in a
 latte glass or a coffee cup. Flavored syrup can be added.</string>
+    <string name="cappuccino_title">CAPPUCCINO</string>
+    <string name="cappuccino_desc">Cappuccino is an espresso-based coffee drink traditionally
+        prepared with steamed milk, including a layer of milk foam.
+        Variations of the drink involve the use of cream instead of milk,
+        using non-dairy milk substitutes and flavoring with cocoa powder or cinnamon.</string>
+    <string name="mocha_title">MOCHA</string>
+    <string name="mocha_desc">A caffè mocha, also called mocaccino, is a chocolate-flavoured variant
+        of caffè latte, commonly served warm or hot in a glass rather than a mug. Other commonly used
+        spellings are mochaccino and also mochachino.</string>
     <string name="coffee_list">Coffee List</string>
 </resources>
